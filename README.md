@@ -29,12 +29,9 @@ We start from a list of countries/ethnolinguisticreligiousgroups/topics in `data
 
 2. Perform preprocessing
 ```
-|- src/extract_NormFrame.py
-   |- src/norm_frame.py
-|- src/clean_NormFrames.py
-|- src/scrape_web_info.py  # Currently includes verying hard negs across the web
+|- src/preproc_data.py
 |- src/construct_mm_benchmark.py
-|- src/combine.py
+|- src/utils.py
 ```
 
 To compute initial stats about the dataset and assess quality do:
