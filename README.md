@@ -2,6 +2,8 @@
 
 **No Culture Left Behind: Massively Multi-Cultural LM Knowledge Acquisition Benchmarking on 1000+ Sub-Country Regions and 2000+ Ethnolinguistic Groups**
 
+![](motivational_fig.pdf)
+
 ## Overview: 
 In this project, we aim to address two important research questions:
 i.) What are the underlying fine-grained rules/norms in different parts of society around the world; and
