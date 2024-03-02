@@ -72,3 +72,6 @@ Vicuna:
 python eval/benchmark_Vicuna.py --model lmsys/vicuna-7b-v1.3
 python eval/benchmark_Vicuna.py --model lmsys/vicuna-13b-v1.3 --num-gpus 2
 ```
+
+## License
+Our dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
