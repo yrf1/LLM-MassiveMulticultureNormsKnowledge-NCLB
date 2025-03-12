@@ -13,7 +13,7 @@ To achieve these objectives, our specific approach & implementation is to:
 i.) Construct a benchmark of massively multicultural norms; and
 ii.) Evaluate different SOTA LLM on their pretrained knowledge & zero-shot reasoning performance in this domain
 
-[[paper]](https://arxiv.org/pdf/2402.09369.pdf) [[data]](https://drive.google.com/drive/folders/1LN8yrKseTJIAb3FdIr0-Jy3eZNZUI7vo?usp=sharing)
+[[paper]](https://arxiv.org/pdf/2402.09369.pdf) [[data]](https://drive.google.com/drive/folders/1LN8yrKseTJIAb3FdIr0-Jy3eZNZUI7vo?usp=sharing) [[transition]](https://drive.google.com/drive/folders/1Z_WAiAduuXVvCx6xPC6mfkjmzAnCeCfw?usp=sharing)
 
 ## Preliminary Setup ##
 
